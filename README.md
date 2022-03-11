@@ -12,6 +12,8 @@
 - Inside the JupyterLab instance, click on `Git` tab and `Clone a repo`
 - Paste `https://github.com/BlueBrain/hippocampus-workshop.git`
 
+# Install dependencies
+Before running the exercise notebooks we need to **install some dependencies** using the `init.ipynb` notebook.
 
 # Funding & Acknowledgment
  
