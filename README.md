@@ -7,8 +7,12 @@
 
 ## Clone repository
 - Go to your collab
+- In the left panel click on `Drive`
+- Grant access to Collaboratory Drive if requested
 - In the left panel click on `Lab`
+- Grant access to Collaboratory 2.0 Jupyterhub if requested
 - Select Lab Execution Site `Fenix CH - Swiss National Supercomputing Center (CSCS)`
+- Select the recommended `Official EBRAINS Docker image 22.02 for Collaboratory.Lab`
 - Inside the JupyterLab instance, click on `Git` tab and `Clone a repo`
 - Paste `https://github.com/BlueBrain/hippocampus-workshop.git`
 
