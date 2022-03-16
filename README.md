@@ -1,16 +1,17 @@
 # Hippocampus Workshop
 
 ## Create a Collab
-- Go to https://wiki.ebrains.eu/bin/view/Main/
-- Click on Collab -> Create a collab
-- Fill the information
+- Go to https://wiki.ebrains.eu/bin/view/Main/ and login
+- Click on `Collabs` -> `Create a collab`
+- Add the required information and click `Create collab`
 
 ## Clone repository
 - Go to your collab
 - In the left panel click on `Lab`
 - Select Lab Execution Site `Fenix CH - Swiss National Supercomputing Center (CSCS)`
-- Inside the JupyterLab instance, click on `Git` tab and `Clone a repo`
+- Inside the JupyterLab instance, click on `Git` tab and `Clone a Repository`
 - Paste `https://github.com/BlueBrain/hippocampus-workshop.git`
+- Access the cloned notebooks by opening the folder `hippocampus-workshop` in the left panel
 
 ## Install dependencies
 Before running the exercise notebooks we need to **install some dependencies** using the `init.ipynb` notebook.
